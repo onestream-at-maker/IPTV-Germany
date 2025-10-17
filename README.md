@@ -1,9 +1,4 @@
-# IPTV-Germany
-
-***Want to contribute in the IPTV-Germany app? Let us know under the issues tab!***
-
-This repo contains a list of over 100+ german-language channels including Sky Sport, Sky Cinema, Lifestyle and more!
-
-# Channel list by far
-
-This project is still WIP.
+# 📺 Neptune
+Neptune is a Free TV service for EX-YU regions featuring Bosnia, Croatia, Serbia, ..
+# Geo-block warning
+If you wish to watch TV of a specific country when you are outside of it, please use a non-geoblock.m3u.
